@@ -1,8 +1,4 @@
 <div align="center">
-  <br />
-    <a href="https://youtu.be/y5vE8y_f_OM" target="_blank">
-    </a>
-  <br />
 
  <h3 align="center">LiveDocs</h3>
  
