@@ -48,9 +48,6 @@ Built with Next.js to handle the user interface, Liveblocks for real-time featur
 
 👉 **Notifications**: Notify users of document shares, new comments, and collaborator activities.
 
-👉 **Responsive**: The application is responsive across all devices.
+👉 **Responsive**: The application is responsive across all devices, and many more, including code architecture and reusability.
 
-and many more, including code architecture and reusability 
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
