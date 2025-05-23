@@ -1,6 +1,6 @@
 <div align="center">
 
- <h2 align="center">LiveDocs</h2>
+ <h3 align="center">LiveDocs</h3>
  
   <br />
  
